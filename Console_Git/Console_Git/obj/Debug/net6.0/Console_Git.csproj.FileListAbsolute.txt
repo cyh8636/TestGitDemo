@@ -1,0 +1,15 @@
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\bin\Debug\net6.0\Console_Git.exe
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\bin\Debug\net6.0\Console_Git.deps.json
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\bin\Debug\net6.0\Console_Git.runtimeconfig.json
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\bin\Debug\net6.0\Console_Git.dll
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\bin\Debug\net6.0\Console_Git.pdb
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.AssemblyInfoInputs.cache
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.AssemblyInfo.cs
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.csproj.CoreCompileInputs.cache
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.sourcelink.json
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.dll
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\refint\Console_Git.dll
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.pdb
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\Console_Git.genruntimeconfig.cache
+F:\GitWorkSpace\GitTestDemo\Console_Git\Console_Git\obj\Debug\net6.0\ref\Console_Git.dll
